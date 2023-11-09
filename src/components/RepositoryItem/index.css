@@ -1,0 +1,9 @@
+.stats-container {
+  display: flex;
+}
+.repository-item {
+  background-color: #c68642;
+}
+.info {
+  display: flex;
+}
